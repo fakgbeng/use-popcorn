@@ -289,7 +289,11 @@ body {
   flex-direction: column;
   gap: 2.4rem;
 }
-
+.rated-warning {
+  text-align: center;
+  color: rgb(245, 104, 10);
+  margin-top: -5px;
+}
 .btn-add {
   background-color: var(--color-primary);
   color: var(--color-text);
